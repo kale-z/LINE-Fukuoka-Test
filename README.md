@@ -1,4 +1,4 @@
-# LINE-Fukuoka-Test
+# LINE-Fukuoka Interview Test
 This was the LINE (Fukuoka office) Interview Qualification Test for Front-end Engineer position.
 
 
@@ -11,11 +11,14 @@ This was the LINE (Fukuoka office) Interview Qualification Test for Front-end En
 4. When button **sort** is clicked, rows will be sorted by price in descending order. If two or more prices are the same, rows will be sorted in ascending id order.
 
 
+**Note:** For more details, check the ```Instructions.txt``` file under ```Extra``` folder.
+
+
 <br>
 
 # Screenshot
 <p>
    <em>Displayed Table on exam.html Page</em>
    <br><br>
-   <img style="max-width: 100%;height: 450px;" src="/Extra/test.jpg" alt>
+   <img style="max-width: 100%;height: 750px;" src="/Extra/test.jpg" alt>
 </p>
